@@ -78,9 +78,6 @@ Please refer to [INSTALL.md](docs/INSTALL.md) for installation and dataset prepa
 
 ## Get Started
 
-Please see [GETTING_STARTED.md](docs/GETTING_STARTED.md) for the basic usage of MMDetection.
+Please see [GETTING_STARTED.md](docs/GETTING_STARTED.md) for the basic usage.
 
-## Contributing
-
-We appreciate all contributions to improve MMDetection. Please refer to [CONTRIBUTING.md](.github/CONTRIBUTING.md) for the contributing guideline.
 
