@@ -95,11 +95,6 @@ cd data/cityscapes/
 mv train/*/* train/
 ```
 
-### Scripts
-
-[Here](https://gist.github.com/hellock/bf23cd7348c727d69d48682cb6909047) is
-a script for setting up mmdetection with conda.
-
 ### Multiple versions
 
 If there are more than one mmdetection on your machine, and you want to use them alternatively, the recommended way is to create multiple conda environments and use different environments for different versions.
