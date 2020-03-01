@@ -1,7 +1,7 @@
 
 # Object Detection
 
-**News**: This work is described in the technical report on [ArXiv](https://arxiv.org/abs/1906.07155).
+This work is described in the technical report on [ArXiv](https://arxiv.org/abs/1906.07155).
 
 ## Introduction
 
